@@ -6,6 +6,7 @@ This repository will probably get more and more files.
 Feel free to use or copy these scripts.
 
 Make sure to have all necessary libraries installed.
+A list of them can be found in the Requirements file.
 
 # How to Use
 For filterchange.py, simply have your video and audio ready in a folder.
