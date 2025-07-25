@@ -1,0 +1,6 @@
+Make sure to have installed:
+- librosa
+- NumPy
+- moviepy
+- PIL
+- cv2
